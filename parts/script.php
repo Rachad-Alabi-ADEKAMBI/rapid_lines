@@ -1,6 +1,6 @@
 <script>
-    displayResults(){
-        alert('No results for this query now, pleas try again later')
+    displayMessage(){
+        alert('You will receive the best flights tickets deals by mail soon !');
     }
 </script>
 

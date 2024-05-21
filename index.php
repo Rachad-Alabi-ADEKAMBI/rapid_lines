@@ -258,8 +258,11 @@
 		</div>
 	</div>
 	<div class="footer-w3l">
+		<p>
+			Get our mobile app <a href="https://median.co/share/qjyjdz" style="color: #FFC107; font-weight: bold;">here</a>
+		</p>
 		<p class="agileinfo"> &copy; 2024 Rapid Lines. All Rights Reserved | Made with sweat, blood and tears by 
-     <span> <a href="https://rachad-alabi-adekambi.github.io/portfolio">Codeur Creatif</a></span></p>
+     <span> <a style="color: #FFC107; font-weight: bold;" href="https://rachad-alabi-adekambi.github.io/portfolio">Codeur Creatif</a></span></p>
 	</div>
 	<!--script for portfolio-->
 		<script src="js/jquery.min.js"> </script>

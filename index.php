@@ -34,7 +34,7 @@
 						<form action="#" method="post">
 
 						<div class="from">
-								<h3>From</h3>
+								<h3>Email</h3>
 								<input type="email" name="email" class="email" placeholder="Email" required="">
 							</div>
 
